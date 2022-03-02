@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cubic Master</string>
+    <string name="enterData">Enter Length and Circumference</string>
+    <string name="circumferenceHint">Circumference in Inches</string>
+    <string name="lengthHint">Length in Feets</string>
+    <string name="reset">RESET</string>
+    <string name="result">RESULT</string>
 </resources>
